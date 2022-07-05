@@ -1,2 +1,1 @@
-# TrainingKotlin
-Latihan
+# Training Kotlin
